@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi! My name is Alecsandra,I study telecommunications ,I'am from Cluj-Napoca .
+I love science.
